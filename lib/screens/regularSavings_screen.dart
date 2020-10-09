@@ -28,6 +28,7 @@ class _RegularSavingsScreenState extends State<RegularSavingsScreen> {
             SizedBox(
               height: 5.0,
             ),
+            //sfsdfsdf
             Text("Begin your savings journey with an HNB Savings Account and manage"
                 " your day-to-day transactions with ease and convenience while earning interest on your daily balance.",
                 style: TextStyle(fontFamily: 'Roboto',fontWeight: FontWeight.w500, fontSize: 13.0)
